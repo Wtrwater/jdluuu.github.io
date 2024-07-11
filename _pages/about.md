@@ -1,11 +1,3 @@
-<!--
- * @Author: Wtrwater 1921852290@qq.com
- * @Date: 2024-07-12 02:50:49
- * @LastEditors: Wtrwater 1921852290@qq.com
- * @LastEditTime: 2024-07-12 03:13:18
- * @FilePath: /jdluuu.github.io/_pages/about.md
- * @Description: 
--->
 ---
 permalink: /
 title: "Jiadong Lu"
