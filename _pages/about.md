@@ -1,6 +1,14 @@
+<!--
+ * @Author: Wtrwater 1921852290@qq.com
+ * @Date: 2024-07-12 02:50:49
+ * @LastEditors: Wtrwater 1921852290@qq.com
+ * @LastEditTime: 2024-07-12 03:13:18
+ * @FilePath: /jdluuu.github.io/_pages/about.md
+ * @Description: 
+-->
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Jiadong Lu"
 author_profile: true
 redirect_from: 
   - /about/
