@@ -1,0 +1,3 @@
+{
+    "jekyll-run.commandLineArguments": "-l -H localhost -P 4001"
+}
