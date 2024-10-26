@@ -1,16 +1,16 @@
 <!--
  * @Author: wtrwater 1921852290@qq.com
  * @Date: 2024-10-26 22:01:39
- * @LastEditors: wtrwater 1921852290@qq.com
- * @LastEditTime: 2024-10-26 22:25:41
- * @FilePath: \jdluuu.github.io\_pages\about.md
+ * @LastEditors: Wtrwater 1921852290@qq.com
+ * @LastEditTime: 2024-10-26 22:32:44
+ * @FilePath: /jdluuu.github.io/_pages/about.md
  * @Description: 
  * 
  * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved. 
 -->
 ---
 permalink: /
-title: "Jiadong Lu"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
