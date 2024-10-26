@@ -1,3 +1,13 @@
+<!--
+ * @Author: Wtrwater 1921852290@qq.com
+ * @Date: 2024-10-27 01:13:09
+ * @LastEditors: Wtrwater 1921852290@qq.com
+ * @LastEditTime: 2024-10-27 01:32:42
+ * @FilePath: /jdluuu.github.io/_pages/about.md
+ * @Description: 
+ * 
+ * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved. 
+-->
 ---
 permalink: /
 title: "About me"
@@ -24,7 +34,7 @@ Publications<span style="font-size: 20px; font-weight: bold; ">( <sup>†</sup> 
     <img src="images/cubetrack.png" alt="cubetrack" width="300" />
     <p style="margin-left: 20px;">
         <span style="font-size: 20px; font-weight: bold; ">Novel design of Reconfigurable Tracked Robot with Geometry-Changing Tracks (IROS 2024 oral)</span><br>
-        <span style="font-size: 13px;">Chice Xuan<sup>†</sup>, Jiadong Lu<sup>†</sup>, <strong>Zhihao Tian</strong>, Jiacheng Li, Mengke Zhang, Hanbin Xie, Jianxiong Qiu, Chao Xu, and Yanjun Cao</span><br><br>
+        <span style="font-size: 13px;">Chice Xuan<sup>†</sup>, <strong>Jiadong Lu<sup>†</sup></strong>, Zhihao Tian, Jiacheng Li, Mengke Zhang, Hanbin Xie, Jianxiong Qiu, Chao Xu, and Yanjun Cao</span><br><br>
         <span style="font-size: 16px; ">This paper presents a reconfigurable tracked robot(cubetrack) design featuring geometry-changing tracks,which demonstrates exceptional terrain adaptability and obstacle-crossing capabilities </span><br>
     </p>
 </div>
