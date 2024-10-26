@@ -1,13 +1,3 @@
-<!--
- * @Author: Wtrwater 1921852290@qq.com
- * @Date: 2024-10-27 01:13:09
- * @LastEditors: Wtrwater 1921852290@qq.com
- * @LastEditTime: 2024-10-27 01:32:42
- * @FilePath: /jdluuu.github.io/_pages/about.md
- * @Description: 
- * 
- * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved. 
--->
 ---
 permalink: /
 title: "About me"
