@@ -23,7 +23,7 @@ Publications<span style="font-size: 20px; font-weight: bold; ">( <sup>†</sup> 
 <div style="display: flex; align-items: flex-start;">
     <img src="images/cubetrack.png" alt="cubetrack" width="300" />
     <p style="margin-left: 20px;">
-        <span style="font-size: 20px; font-weight: bold; ">Novel design of Reconfigurable Tracked Robot with Geometry-Changing Tracks (IROS 2024 oral)</span><br>
+        <span style="font-size: 20px; font-weight: bold; ">Novel Design of Reconfigurable Tracked Robot with Geometry-Changing Tracks (IROS 2024 oral)</span><br>
         <span style="font-size: 13px;">Chice Xuan<sup>†</sup>, <strong>Jiadong Lu<sup>†</sup></strong>, Zhihao Tian, Jiacheng Li, Mengke Zhang, Hanbin Xie, Jianxiong Qiu, Chao Xu, and Yanjun Cao</span><br><br>
         <span style="font-size: 16px; ">This paper presents a reconfigurable tracked robot(cubetrack) design featuring geometry-changing tracks,which demonstrates exceptional terrain adaptability and obstacle-crossing capabilities </span><br>
     </p>
