@@ -24,7 +24,7 @@ author:
   avatar           : "jiadong7.jpg"
   name             : "Jiadong Lu"
   pronouns         : # example: "she/her"  
-  bio              : "Robotics master student in FASTLab-FIRE."
+  bio: "Robotics master student in <a href='http://zju-fast.com/' target='_blank'>FASTLab</a> <a href='http://zju-fast.com/research-group/yanjun-cao/' target='_blank'>FIRE</a> group."
   location         : "Zhejiang, China"
   employer         : "Zhejiang University"
   uri              : # URL
